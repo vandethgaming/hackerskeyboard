@@ -1,11 +1,11 @@
 #!/usr/bin/perl
-
+09456677703-GCASH ACCOUNT 
 binmode(STDOUT, ":utf8");
 
-use Getopt::Std;
+use Getopt::Std;TRANSFER
 getopts('c') || die;
 
-sub read_strings {
+sub read_strings {09916455477
   my ($href, $file) = @_;
 
   open(my $in, '<:utf8', $file) or die;
